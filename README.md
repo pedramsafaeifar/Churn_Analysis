@@ -8,8 +8,11 @@ The marketing department is particularly interested in comparing churn rates for
 The dataset contains one SQL table, subscriptions. Within the table, there are 4 columns:
 
 id – the subscription id
+
 subscription_start – the start date of the subscription
+
 subscription_end – the end date of the subscription
+
 segment – this identifies which segment the subscription owner belongs to
 
 
